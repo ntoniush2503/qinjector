@@ -1,0 +1,11 @@
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\bin\Release\qiinjector19c.exe.config
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\bin\Release\qiinjector19c.exe
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\bin\Release\qiinjector19c.pdb
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\bin\Release\Oracle.DataAccess.dll
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\obj\Release\HelloWorld.Form1.resources
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\obj\Release\qiinjector19c.Properties.Resources.resources
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\obj\Release\HelloWorld.csproj.GenerateResource.cache
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\obj\Release\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\obj\Release\HelloWorld.csproj.CopyComplete
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\obj\Release\qiinjector19c.exe
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\obj\Release\qiinjector19c.pdb

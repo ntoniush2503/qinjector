@@ -1,0 +1,12 @@
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\bin\Debug\qiinjector19c.exe.config
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\bin\Debug\qiinjector19c.exe
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\bin\Debug\qiinjector19c.pdb
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\bin\Debug\Oracle.DataAccess.dll
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\obj\Debug\qiinjector19c.csproj.AssemblyReference.cache
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\obj\Debug\qiinjector19c.Properties.Resources.resources
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\obj\Debug\qiinjector19c.csproj.GenerateResource.cache
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\obj\Debug\qiinjector19c.csproj.CoreCompileInputs.cache
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\obj\Debug\qiinjector19c.csproj.CopyComplete
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\obj\Debug\qiinjector19c.exe
+C:\Users\hendra\source\repos\HelloWorld\HelloWorld\obj\Debug\qiinjector19c.pdb
